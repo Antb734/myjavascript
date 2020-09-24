@@ -8,3 +8,8 @@ I figure it's never to early to establish a presence, so when i'm ready to start
 Looking forward to being a part of the github community!
 
 Anthony
+
+Update:
+Pig game was a part of my course The Complete JavaScript Course 2020: Build Real World Projects by Jonas Schmedtmann
+
+I did add some of my own touch to css styles and JavaScript including being able to change the player 1 and 2 names based on user input.  Let me know what you think.
